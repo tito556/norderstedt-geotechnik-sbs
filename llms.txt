@@ -1,0 +1,51 @@
+# Geotechnik — Norderstedt
+
+> Geotechnical engineering services in Norderstedt, Deutschland.
+
+## Services
+- [Anker](https://norderstedt.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://norderstedt.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://norderstedt.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://norderstedt.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://norderstedt.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://norderstedt.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://norderstedt.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://norderstedt.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://norderstedt.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://norderstedt.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://norderstedt.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://norderstedt.geotechnik.sbs/fundamente/)
+- [Grundungen](https://norderstedt.geotechnik.sbs/grundungen/)
+- [Hange](https://norderstedt.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://norderstedt.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://norderstedt.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://norderstedt.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://norderstedt.geotechnik.sbs/labor/)
+- [Labor In Situ](https://norderstedt.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://norderstedt.geotechnik.sbs/masw/)
+- [Pfahle](https://norderstedt.geotechnik.sbs/pfahle/)
+- [Proctor Versuche](https://norderstedt.geotechnik.sbs/proctor-versuche/)
+- [Ruttelverdichtung](https://norderstedt.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://norderstedt.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://norderstedt.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://norderstedt.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://norderstedt.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://norderstedt.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://norderstedt.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://norderstedt.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://norderstedt.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://norderstedt.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://norderstedt.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://norderstedt.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://norderstedt.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://norderstedt.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://norderstedt.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://norderstedt.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://norderstedt.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://norderstedt.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Norderstedt, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
